@@ -23,38 +23,38 @@
 <table>
 
 <tr>
-    <th>Processador :</th>
+    <th>Processador </th>
     <td>I5 7400 3.0gh</td>
 </tr>
 
 <tr>
-    <th>Placa Grafica :</th>
+    <th>Placa Grafica </th>
     <td>1660 6gb ASUS</td>
 </tr>
 
 
 <tr>
-    <th>Memoria RAM :</th>
+    <th>Memoria RAM </th>
     <td>24gb HYPERX Fury</td>
 </tr>
 
 <tr>
-    <th>MotherBoard :</th>
+    <th>MotherBoard </th>
     <td>ASUS b150 Pro Gaming</td>
 </tr>
 
 <tr>
-    <th>Caixa :</th>
+    <th>Caixa </th>
     <td>MasterBox Lite 5</td>
 </tr>
 
 <tr>
-    <th>SSD :</th>
+    <th>SSD </th>
     <td>240gb Kingston</td>
 </tr>
 
 <tr>
-    <th>HDD :</th>
+    <th>HDD </th>
     <td>1TB</td>
 </tr>
 </table>
@@ -65,31 +65,31 @@
 
 <table>
 <tr>
-    <th>Teclado :</th>
+    <th>Teclado </th>
     <td>MS-110 Mem-Chanical (PT)</td>
 </tr>
 <tr>
-    <th>Rato :</th>
+    <th>Rato </th>
     <td>Rato Óptico Logitech G502 HERO 16000DPI Gaming Preto</td>
 </tr>
 
 <tr>
-    <th>Monitor Primario :</th>
+    <th>Monitor Primario </th>
     <td>Monitor Curvo AOC C27G2U/BK VA 27" FHD 16:9 165Hz FreeSync</td>
 </tr>
 
 <tr>
-    <th>Monitor Secundario :</th>
+    <th>Monitor Secundario </th>
     <td>LG 27MP59G P 27 LED IPS FullHD FreeSync</td>
 </tr>
 
 <tr>
-    <th>Headset :</th>
+    <th>Headset </th>
     <td>Kingston HyperX Cloud II</td>
 </tr>
 
 <tr>
-    <th>Tapete :</th>
+    <th>Tapete </th>
     <td>Rockstar Games Outlaws Deskpad</td>
 </tr>
 
@@ -105,7 +105,6 @@
 
 </table>
 </div>
-
 <br>
 
 ### 🚗Dream Car🚗
