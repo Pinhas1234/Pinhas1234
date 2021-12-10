@@ -19,9 +19,8 @@
 
 ### 💻Setup:
 
-<div style="display: inline_block">
-<table>
-
+<div >
+<table style="float: left">
 <tr>
     <th>Processador </th>
     <td>I5 7400 3.0gh</td>
@@ -58,6 +57,55 @@
     <td>1TB</td>
 </tr>
 </table>
+
+
+
+
+
+
+
+<table >
+<tr>
+    <th>Teclado </th>
+    <td>MS-110 Mem-Chanical (PT)</td>
+</tr>
+<tr>
+    <th>Rato </th>
+    <td>Rato Óptico Logitech G502 HERO 16000DPI Gaming Preto</td>
+</tr>
+
+<tr>
+    <th>Monitor Primario </th>
+    <td>Monitor Curvo AOC C27G2U/BK VA 27" FHD 16:9 165Hz FreeSync</td>
+</tr>
+
+<tr>
+    <th>Monitor Secundario </th>
+    <td>LG 27MP59G P 27 LED IPS FullHD FreeSync</td>
+</tr>
+
+<tr>
+    <th>Headset </th>
+    <td>Kingston HyperX Cloud II</td>
+</tr>
+
+<tr>
+    <th>Tapete </th>
+    <td>Rockstar Games Outlaws Deskpad</td>
+</tr>
+
+<tr>
+    <th>WebCam</th>
+    <td>HP 20mp/td>
+</tr>
+
+<tr>
+    <th>Cadeira</th>
+    <td>Cadeira Gaming GENESIS NFG-1533 Preto/Azul </td>
+</tr>
+
+</table>
+</div>
 
 <br>
 
