@@ -110,8 +110,7 @@
 ### 🚗Dream Car🚗
 
 <div style="display: inline_block">
-    <img align="center" alt="Huracan" src="https://aleen42.github.io/badges/src/lamborghini.svg" />
-
+    <img align="center" alt="Huracan" href="https://www.lamborghini.com/en-en/models/huracan" target="_blank" src="https://aleen42.github.io/badges/src/lamborghini.svg" />
 </div><br/>
 
 
