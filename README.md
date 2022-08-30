@@ -115,12 +115,7 @@
 
 
 
-### 🛺My friend Dream Car🛺
 
-<div style="display: inline_block">
-    <img align="center" alt="Huracan" src="https://aleen42.github.io/badges/src/audi.svg" />
-
-</div><br/>
 
 
 
