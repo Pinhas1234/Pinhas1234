@@ -94,7 +94,7 @@
 
 <tr>
     <th>WebCam</th>
-    <td>HP 20mp/td>
+    <td>HP 20mp </td>
 </tr>
 
 <tr>
