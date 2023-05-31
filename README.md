@@ -24,12 +24,5 @@
     
 </div><br/>
 
-### 🚗Dream Car🚗
-
-<div style="display: inline_block">
-    <img align="center" alt="Huracan" href="https://www.lamborghini.com/en-en/models/huracan" target="_blank" src="https://aleen42.github.io/badges/src/lamborghini.svg" />
-</div><br/>
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
