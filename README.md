@@ -3,9 +3,6 @@
 
 ![Pinhas GitHub stats](https://github-readme-stats.vercel.app/api?username=Pinhas1234&show_icons=true&theme=github_dark&count_private=true)
 ### 👨🏻‍💻Linguagens de programação com que ja trabalhei👨🏻‍💻
-
-<br>
-
 <ul>
   <li>Java</li>
   <li>Python</li>
@@ -19,7 +16,6 @@
 </ul>  
 
 ### 👨🏻‍💻Tecnologias com que ja trabalhei👨🏻‍💻
-<br>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
