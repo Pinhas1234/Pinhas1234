@@ -1,7 +1,9 @@
 ### Olá eu sou o Pinheiro e este é o meu perfil do GITHUB 👍
 <br>
+
 ![Pinhas GitHub stats](https://github-readme-stats.vercel.app/api?username=Pinhas1234&show_icons=true&theme=github_dark&count_private=true)
 ### 👨🏻‍💻Linguagens de programação com que ja trabalhei👨🏻‍💻
+
 <br>
 
 <ul>
